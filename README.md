@@ -1,3 +1,9 @@
+#GoCampIt
+A startup project that fell through. Was to an open camp grounds reservation portal.
+
+
+
+
 # CakePHP Application Skeleton
 
 [![Build Status](https://img.shields.io/travis/cakephp/app/master.svg?style=flat-square)](https://travis-ci.org/cakephp/app)
